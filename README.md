@@ -6,7 +6,7 @@ Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility,
 ![Tauri](https://img.shields.io/badge/Tauri-2.0+-purple?logo=tauri)
 ![WPF](https://img.shields.io/badge/WPF-.NET_8-blue?logo=dotnet)
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG_AA-green)
-# SoloStackToolkit — Разработчик кроссплатформенного ПО 🖥️
+# ArtSoloStackToolkit — Разработчик кроссплатформенного ПО 🖥️
 
 ### Экспертиза: Rust · Tauri · WPF · UI/UX · A11y
 
