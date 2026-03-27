@@ -25,7 +25,7 @@ Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility,
 
 **Rust + Tauri** — кроссплатформенные приложения (Win/macOS/Linux), которые весят меньше, чем ваш последний мем в Telegram.
 
-**WPF/.NET 8** — когда нужно глубоко в Windows, но с человеческим лицом.
+**WPF/.NET** — когда нужно глубоко в Windows, но с человеческим лицом.
 
 **UI/UX + A11y** — интерфейсы, которые понятны даже вашей бабушке (и соответствуют WCAG AA).
 
