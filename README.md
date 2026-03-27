@@ -1,12 +1,11 @@
-<!--
-SEO: Rust developer, Tauri developer, WPF developer, desktop software, UI/UX design, a11y specialist
-Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility, custom controls
--->
 ![Rust](https://img.shields.io/badge/Rust-1.85+-orange?logo=rust&style=flat)
 ![Tauri](https://img.shields.io/badge/Tauri-2.0+-purple?logo=tauri&style=flat)
 ![WPF](https://img.shields.io/badge/WPF-.NET_8-blue?logo=dotnet&style=flat)
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG_AA-2ea44f?style=flat)
-
+<!--
+SEO: Rust developer, Tauri developer, WPF developer, desktop software, UI/UX design, a11y specialist
+Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility, custom controls
+-->
 # SoloStackToolkit
 
 ### Кроссплатформенный софт, который работает. Не тормозит. Не бесит.
@@ -44,9 +43,10 @@ Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility,
 
 ---
 
-## 📂 Код
+## 📂 Код и ссылки
 
-🔗 **Gitflic:** https://gitflic.ru/user/solostacktoolkit
+🔗 [Gitflic](https://gitflic.ru/user/solostacktoolkit)  
+🔗 [GitHub](https://github.com/Artsolostacktoolkit)
 
 ---
 
