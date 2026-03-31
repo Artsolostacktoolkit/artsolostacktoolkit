@@ -20,8 +20,6 @@ Keywords: WPF, desktop applications,  accessibility, custom controls
 
 ## 🔥 Что делаю
 
-**Rust + Tauri** — кроссплатформенные приложения (Win/macOS/Linux), которые весят меньше, чем ваш последний мем в Telegram.
-
 **WPF/.NET** — когда нужно глубоко в Windows, но с человеческим лицом.
 
 **UI/UX + A11y** — интерфейсы, которые понятны даже вашей бабушке (и соответствуют WCAG AA).
