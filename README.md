@@ -4,7 +4,8 @@
 SEO: Rust developer, Tauri developer, WPF developer, desktop software, UI/UX design, a11y specialist
 Keywords: WPF, desktop applications,  accessibility, custom controls
 -->
-# SoloStackToolkit
+# SoloStackToolkit\ArtSoloStackToolkit
+
 
 ### Софт, который работает. Не тормозит. Не бесит.
 
