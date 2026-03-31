@@ -1,5 +1,3 @@
-![Rust](https://img.shields.io/badge/Rust-1.85+-orange?logo=rust&style=flat)
-![Tauri](https://img.shields.io/badge/Tauri-2.0+-purple?logo=tauri&style=flat)
 ![WPF](https://img.shields.io/badge/WPF-.NET_8-blue?logo=dotnet&style=flat)
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG_AA-2ea44f?style=flat)
 <!--
