@@ -2,11 +2,11 @@
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG_AA-2ea44f?style=flat)
 <!--
 SEO: Rust developer, Tauri developer, WPF developer, desktop software, UI/UX design, a11y specialist
-Keywords: Rust, Tauri, WPF, desktop applications, cross-platform, accessibility, custom controls
+Keywords: WPF, desktop applications,  accessibility, custom controls
 -->
 # SoloStackToolkit
 
-### Кроссплатформенный софт, который работает. Не тормозит. Не бесит.
+### Софт, который работает. Не тормозит. Не бесит.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,tauri,cs,dotnet,wpf,blazor&theme=dark&perline=6" />
