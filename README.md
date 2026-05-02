@@ -15,13 +15,12 @@ Keywords: WPF, C#, C++, Qt, desktop applications, accessibility, custom controls
 ### Софт, который работает. Не тормозит. Не бесит.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,wpf,blazor&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,wpf,qt&theme=dark&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,sql,sqlite,docker&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,sqlite,docker&theme=dark&perline=5" />
 </p>
-
 ---
 
 ## 🔥 Что делаю
