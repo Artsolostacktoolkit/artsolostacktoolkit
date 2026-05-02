@@ -1,9 +1,14 @@
 ![WPF](https://img.shields.io/badge/WPF-.NET_8-blue?logo=dotnet&style=flat)
+![C#](https://img.shields.io/badge/C%23-.NET_8-239120?logo=csharp&style=flat)
+![C++](https://img.shields.io/badge/C++-20-00599C?logo=cplusplus&style=flat)
+![Qt](https://img.shields.io/badge/Qt-6-41CD52?logo=qt&style=flat)
 ![A11y](https://img.shields.io/badge/Accessibility-WCAG_AA-2ea44f?style=flat)
+
 <!--
-SEO: Rust developer, Tauri developer, WPF developer, desktop software, UI/UX design, a11y specialist
-Keywords: WPF, desktop applications,  accessibility, custom controls
+SEO: C# developer, WPF developer, C++ developer, Qt developer, desktop software, UI/UX design, a11y specialist
+Keywords: WPF, C#, C++, Qt, desktop applications, accessibility, custom controls
 -->
+
 # SoloStackToolkit\ArtSoloStackToolkit
 
 
