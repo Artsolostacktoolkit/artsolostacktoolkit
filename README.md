@@ -12,7 +12,7 @@ Keywords: WPF, C#, C++,  desktop applications, accessibility, custom controls
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,wpf,qt&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,wpf&theme=dark&perline=4" />
 </p>
 
 <p align="center">
